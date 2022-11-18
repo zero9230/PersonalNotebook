@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "48996177407ea8bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5c07af880e579d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ba9a7560190e6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d217fb0192ad0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7dc118b5298596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee423d6197318ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c840c7f58584c093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "751230323f60568b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2de35f5ec2c63d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e73730aa4b2d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a52ceb855edd3d6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e841c1c78d92632",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfca4c73a783c21c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f67e7a420040d29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ba9a7560190e6ab",
+  "lastOpenFiles": [
+    "未命名/未命名.md"
+  ]
+}

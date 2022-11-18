@@ -1,0 +1,11 @@
+{
+  "translucency": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "base.user",
+    "style",
+    "mermaid-style"
+  ],
+  "baseFontSize": 16,
+  "accentColor": ""
+}

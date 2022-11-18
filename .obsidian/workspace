@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "afd29666374da74f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a26e13645b0bae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "生活类/菜谱.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa464df0efcc1727",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f2b8dc44ef92fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff8d1528a28c203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa2a493d1afa784",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标签2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228
+  },
+  "right": {
+    "id": "c860a8b579f550d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d5660de3334852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49969dc8d2854d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "生活类/菜谱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8a1513c9942fdb12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生活类/菜谱.md"
+              }
+            }
+          },
+          {
+            "id": "d5286f606b960161",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "active": "e1a26e13645b0bae",
+  "lastOpenFiles": [
+    "学习整理/数据库/oracle.md",
+    "学习整理/数据库/基础SQL语法.md",
+    "生活类/菜谱.md",
+    "学习整理/中间件/elasticsearch.md",
+    "学习整理/java相关/java语言.md",
+    "学习整理/java相关/Java测试.md",
+    "学习整理/java相关/Java并发.md",
+    "学习整理/通用工具/mermaid.md",
+    "生活类/三国志11资料收集.md",
+    "生活类/种植.md"
+  ]
+}

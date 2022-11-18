@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "attachmentFolderPath": "./火焰纹章-圣魔之光石.assets",
+  "useMarkdownLinks": true,
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
