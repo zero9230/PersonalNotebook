@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5c07af880e579d",
+        "id": "d088c66af273504a",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba9a7560190e6ab",
+            "id": "d76b920831b750fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md",
+                "file": "学习整理/基础知识/计算机/Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "2de35f5ec2c63d7d",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md",
+                "file": "学习整理/基础知识/计算机/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活类/游戏攻略/火焰纹章-圣魔之光石.md"
+                "file": "学习整理/基础知识/计算机/Linux.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8ba9a7560190e6ab",
+  "active": "d76b920831b750fb",
   "lastOpenFiles": [
+    "学习整理/基础知识/计算机/shell.md",
+    "生活类/菜谱.md",
+    "学习整理/大数据相关/spark.md",
+    "生活类/游戏攻略/火焰纹章-圣魔之光石.md",
+    "Excalidraw/转职路线图.md",
     "未命名/未命名.md"
   ]
 }
