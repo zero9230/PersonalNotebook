@@ -136,8 +136,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1f67e7a420040d29",
+  "active": "d76b920831b750fb",
   "lastOpenFiles": [
+    "学习整理/通用工具/git.md",
+    "生活类/菜谱.md",
     "学习整理/大数据相关/scala.md",
     "学习整理/中间件/sentinel.md",
     "学习整理/学习计划.md",
@@ -145,8 +147,6 @@
     "学习整理/通用工具/mermaid.md",
     "学习整理/基础知识/计算机/Linux.md",
     "学习整理/基础知识/计算机/shell.md",
-    "生活类/菜谱.md",
-    "学习整理/大数据相关/spark.md",
-    "生活类/游戏攻略/火焰纹章-圣魔之光石.md"
+    "学习整理/大数据相关/spark.md"
   ]
 }
