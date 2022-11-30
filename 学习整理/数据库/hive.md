@@ -37,6 +37,27 @@ hive> desc database database_name;
  --查看数据库的描述及路径
 ```
 
+
+
+1、hive模糊搜索表
+```
+show tables like '*name*';
+```
+2、查看表结构信息
+```
+desc formatted tablename;
+desc table_name
+```
+
+3、查看分区信息
+```
+show partitions tablename;
+```
+4、根据分区查询数据
+```
+select table_coulm from tablename where partitionname = '2016-02-25';
+```
+
 # 2 DDL
 
 # 3 DML
