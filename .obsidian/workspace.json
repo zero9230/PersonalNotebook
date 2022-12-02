@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d76b920831b750fb",
+            "id": "290dab40e16d26df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习整理/通用工具/typora.md",
+                "file": "生活类/菜谱.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,15 +21,12 @@
             }
           },
           {
-            "id": "290dab40e16d26df",
+            "id": "6a9f97b374eb9a4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "学习整理/数据库/hive.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "杂记/置身事内mind.md"
               }
             }
           }
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习整理/数据库/hive.md",
+                "file": "杂记/置身事内mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,28 +136,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习整理/数据库/hive.md"
+                "file": "杂记/置身事内mind.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eee423d6197318ee",
+  "active": "6a9f97b374eb9a4e",
   "lastOpenFiles": [
+    "杂记/税制、财政和居民生活.md",
+    "杂记/置身事内mind.md",
+    "生活类/菜谱.md",
     "学习整理/通用工具/typora.md",
+    "学习整理/数据库/hive.md",
     "学习整理/通用工具/obsidian.md",
     "学习整理/通用工具/mermaid.md",
     "学习整理/通用工具/markdown.md",
     "学习整理/通用工具/LateX.md",
-    "学习整理/通用工具/homebrew.md",
-    "学习整理/通用工具/git.md",
-    "学习整理/通用工具/callout.md",
-    "生活类/菜谱.md",
-    "学习整理/大数据相关/scala.md"
+    "学习整理/通用工具/homebrew.md"
   ]
 }
