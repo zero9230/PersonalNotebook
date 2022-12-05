@@ -59,3 +59,14 @@ show partitions TABLE_NAME;
 select table_coulm from tablename where partitionname = '2016-02-25';
 ```
 
+```sql
+SELECT
+    address_1,
+    city_name,
+    state_name,
+    postal_area_code
+FROM
+    postal_address
+WHERE
+    account_id =
+```
