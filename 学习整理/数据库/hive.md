@@ -1,4 +1,4 @@
-# 1 系统命令
+
 
 1. 登录
 ```sql
@@ -41,24 +41,21 @@ hive> desc database database_name;
 
 1、hive模糊搜索表
 ```
-show tables like '*name*';
+show tables like '*NAME*';
 ```
 2、查看表结构信息
 ```
-desc formatted tablename;
-desc table_name
+desc formatted TABLE_NAME;
+desc TABLE_NAME
+desc extended TABLE_NAME
 ```
 
 3、查看分区信息
 ```
-show partitions tablename;
+show partitions TABLE_NAME;
 ```
 4、根据分区查询数据
 ```
 select table_coulm from tablename where partitionname = '2016-02-25';
 ```
-
-# 2 DDL
-
-# 3 DML
 
