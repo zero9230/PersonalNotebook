@@ -3,7 +3,7 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
-  "attachmentFolderPath": "./hive.assets",
+  "attachmentFolderPath": "./解析forest底层实现.assets",
   "useMarkdownLinks": true,
   "communityPluginSortOrder": "download",
   "promptDelete": false,
