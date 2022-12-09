@@ -90,7 +90,7 @@
 | 大写       | md       | 小写          | md          |
 | ---------- | -------- | ------------- | ----------- |
 | $\Alpha$   | A        | $\alpha$      | \alpha      |
-| B          | B        | $\beta$       | \beta       |
+| B          | B        | $\beta$       | \beta       | 
 | $\Gamma$   | \Gamma   | $\gamma$      | \gamma      |
 | $\Delta$   | \Delta   | $\delta$      | \delta      |
 | $\Epsilon$ | \Epsilon | $\epsilon$    | \epsilon    |
