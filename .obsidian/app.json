@@ -3,7 +3,7 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
-  "attachmentFolderPath": "./mybatis-generator.assets",
+  "attachmentFolderPath": "./mysql.assets",
   "useMarkdownLinks": true,
   "communityPluginSortOrder": "download",
   "promptDelete": false,
