@@ -223,7 +223,7 @@ end
 
 打开后可以看到很多自动配置的文件，这就是自动配置的根源所在
 
-![image-20211215224239978](SpringBoot.assets/image-20211215224239978.png)
+![image-20211215224239978](SpringBoot基本原理.assets/image-20211215224239978.png)
 
  
 
@@ -259,7 +259,7 @@ public SpringApplication(ResourceLoader resourceLoader, Class... primarySources)
 
 ### 2.3.2 run方法流程分析
 
-![图片](SpringBoot.assets/640.jpg)
+![图片](SpringBoot基本原理.assets/640.jpg)
 
 
 
@@ -521,7 +521,7 @@ public class HttpEncodingAutoConfiguration{
 
 
 
-![img](SpringBoot.assets/640-20211221010547901.png)
+![img](SpringBoot基本原理.assets/640-20211221010547901.png)
 
 
 
