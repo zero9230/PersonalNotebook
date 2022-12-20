@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习整理/java相关/Springboot使用技巧.md",
+                "file": "学习整理/数据库/mysql.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习整理/java相关/Springboot使用技巧.md",
+                "file": "学习整理/数据库/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习整理/java相关/Springboot使用技巧.md"
+                "file": "学习整理/数据库/mysql.md"
               }
             }
           }
@@ -189,9 +189,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3edb05a4740728ca",
+  "active": "eee423d6197318ee",
   "lastOpenFiles": [
     "学习整理/java相关/SpringBoot基本原理.md",
+    "学习整理/java相关/Springboot使用技巧.md",
     "生活类/菜谱.md",
     "学习整理/数据库/hive.md",
     "学习整理/java相关/maven.md",
@@ -199,7 +200,6 @@
     "学习整理/基础知识/计算机/shell.md",
     "学习整理/基础知识/计算机/编译原理.md",
     "学习整理/基础知识/计算机/操作系统.md",
-    "学习整理/中间件/精卫jingwei.md",
-    "学习整理/中间件/redis.md"
+    "学习整理/中间件/精卫jingwei.md"
   ]
 }

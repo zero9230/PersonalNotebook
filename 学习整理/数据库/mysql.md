@@ -13,6 +13,12 @@ mysql的停止和重启 和 启动相似 把start 替换为 stop 或 restart 即
 mysql -uroot -proot
 ```
 
+3. 字段改名
+语法: 
+```sql
+alter table person rename to weapon siege_weapon;
+```
+
 
 # 3 常见面试题
 
