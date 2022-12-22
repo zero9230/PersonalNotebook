@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "005346e80979090e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
+          },
+          {
             "id": "3edb05a4740728ca",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,21 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f663abbce28a6c14",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "005346e80979090e",
   "lastOpenFiles": [
     "学习整理/java相关/mybatis-generator.md",
     "学习整理/java相关/Mybatis.md",
