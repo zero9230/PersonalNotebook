@@ -24,22 +24,15 @@
             "id": "f663abbce28a6c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "学习整理/java相关/Mybatis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab421d36f2a8640d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -249.4273851940159,
+                  "y": -289.24781156615705,
+                  "zoom": -0.48471619168917335,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -96,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习整理/java相关/Mybatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +183,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -224,17 +216,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ab421d36f2a8640d",
+  "active": "cfca4c73a783c21c",
   "lastOpenFiles": [
-    "学习整理/java相关/mybatis-generator.md",
+    "未命名.canvas",
+    "未命名.md",
     "学习整理/java相关/Mybatis.md",
+    "学习整理/java相关/mybatis-generator.md",
     "学习整理/通用工具/资源集.md",
     "学习整理/java相关/SpringBoot基本原理.md",
     "学习整理/数据库/mysql.md",
     "学习整理/java相关/Springboot使用技巧.md",
     "生活类/菜谱.md",
-    "学习整理/数据库/hive.md",
-    "学习整理/java相关/maven.md",
-    "学习整理/基础知识/计算机/Linux.md"
+    "学习整理/数据库/hive.md"
   ]
 }
