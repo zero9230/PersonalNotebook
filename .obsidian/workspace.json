@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活类/菜谱.md",
+                "file": "学习整理/未分类/jenkins.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活类/菜谱.md",
+                "file": "学习整理/未分类/jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活类/菜谱.md"
+                "file": "学习整理/未分类/jenkins.md"
               }
             }
           }
@@ -218,6 +218,7 @@
   },
   "active": "f663abbce28a6c14",
   "lastOpenFiles": [
+    "生活类/菜谱.md",
     "学习整理/通用工具/资源集.md",
     "未命名.canvas",
     "未命名.md",
@@ -226,7 +227,6 @@
     "学习整理/java相关/SpringBoot基本原理.md",
     "学习整理/数据库/mysql.md",
     "学习整理/java相关/Springboot使用技巧.md",
-    "生活类/菜谱.md",
     "学习整理/数据库/hive.md"
   ]
 }
