@@ -20,5 +20,9 @@ Jenkins是一个开源CI&CD软件，用于自动化任务，包括构建、测�
 
 
 
-# 2 遇到的问题
+# 2 资源
+1. [jenkins 安装包下载地址](https://get.jenkins.io/war-stable/2.164.3/)
+2. 
+
+# 3 遇到的问题
 安装和使用需要open jdk 11，而本机使用的是oracle jdk 1.8，无法安装
