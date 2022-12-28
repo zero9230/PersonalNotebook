@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习整理/大数据相关/spark.md",
+                "file": "生活类/菜谱.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习整理/大数据相关/spark.md",
+                "file": "生活类/菜谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习整理/大数据相关/spark.md"
+                "file": "生活类/菜谱.md"
               }
             }
           }
@@ -218,6 +218,7 @@
   },
   "active": "f663abbce28a6c14",
   "lastOpenFiles": [
+    "学习整理/大数据相关/spark.md",
     "学习整理/未分类/jenkins.md",
     "学习整理/未分类/nodejs.md",
     "生活类/菜谱.md",
@@ -226,7 +227,6 @@
     "未命名.md",
     "学习整理/java相关/Mybatis.md",
     "学习整理/java相关/mybatis-generator.md",
-    "学习整理/java相关/SpringBoot基本原理.md",
-    "学习整理/数据库/mysql.md"
+    "学习整理/java相关/SpringBoot基本原理.md"
   ]
 }
