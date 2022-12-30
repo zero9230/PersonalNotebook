@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "290dab40e16d26df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习整理/通用工具/资源集.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f663abbce28a6c14",
             "type": "leaf",
             "state": {
@@ -65,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习整理/java相关/maven.md",
+                "file": "学习整理/基础知识/计算机/Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活类/菜谱.md",
+                "file": "学习整理/基础知识/计算机/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活类/菜谱.md"
+                "file": "学习整理/基础知识/计算机/Linux.md"
               }
             }
           }
@@ -216,17 +203,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f663abbce28a6c14",
+  "active": "44a08eeacdc317d8",
   "lastOpenFiles": [
+    "学习整理/java相关/maven.md",
+    "学习整理/中间件/redis.md",
+    "生活类/菜谱.md",
+    "学习整理/数据库/mysql.md",
+    "学习整理/数据库/hive.md",
+    "学习整理/通用工具/资源集.md",
     "学习整理/大数据相关/spark.md",
     "学习整理/未分类/jenkins.md",
     "学习整理/未分类/nodejs.md",
-    "生活类/菜谱.md",
-    "学习整理/通用工具/资源集.md",
-    "未命名.canvas",
-    "未命名.md",
-    "学习整理/java相关/Mybatis.md",
-    "学习整理/java相关/mybatis-generator.md",
-    "学习整理/java相关/SpringBoot基本原理.md"
+    "未命名.canvas"
   ]
 }

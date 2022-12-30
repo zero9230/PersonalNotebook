@@ -393,7 +393,7 @@ awk -F: '{if($3>100 && $3<1000) print $0}' /etc/passwd
 
 1.  [awk命令使用详解](https://juejin.cn/post/6844903782359253005)
 
-# 4 查看文件命令
+# 4 文件命令
 
 1. `ls`——查看文件名列表
 
@@ -416,6 +416,7 @@ awk -F: '{if($3>100 && $3<1000) print $0}' /etc/passwd
    scp 是 secure copy 的缩写, scp 是 linux 系统下基于 ssh 登陆进行安全的远程文件拷贝命令。
 
    scp 是加密的，[rcp](https://www.runoob.com/linux/linux-comm-rcp.html) 是不加密的，scp 是 rcp 的加强版。
+   
 
 2. f_print_dash
 
@@ -432,13 +433,13 @@ awk -F: '{if($3>100 && $3<1000) print $0}' /etc/passwd
 > 定时提交指定目录下的文件到git
 
 
-# 5 文件操作命令
-## 5.1 压缩命令
-zip
+## 4.1 压缩命令
 
 
-参考： 
-# 6 OS命令
+.zip  
+解压：unzip FileName.zip  
+压缩：zip FileName.zip DirName
+# 5 OS命令
 
 1. df -h 	# 查看磁盘占用率
 2. top   # 实时查看进程，类似任务管理器 
@@ -447,7 +448,7 @@ zip
 
 
 
-# 7 网络命令
+# 6 网络命令
 
 1. nsloopup 【目标网址】		# 查看目标网址的dns
 
