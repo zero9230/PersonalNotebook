@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习整理/基础知识/计算机/Linux.md",
+                "file": "生活类/菜谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习整理/基础知识/计算机/Linux.md"
+                "file": "生活类/菜谱.md"
               }
             }
           }
@@ -203,8 +202,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "44a08eeacdc317d8",
+  "active": "f663abbce28a6c14",
   "lastOpenFiles": [
+    "学习整理/基础知识/计算机/Linux.md",
     "学习整理/java相关/maven.md",
     "学习整理/中间件/redis.md",
     "生活类/菜谱.md",
@@ -213,7 +213,6 @@
     "学习整理/通用工具/资源集.md",
     "学习整理/大数据相关/spark.md",
     "学习整理/未分类/jenkins.md",
-    "学习整理/未分类/nodejs.md",
-    "未命名.canvas"
+    "学习整理/未分类/nodejs.md"
   ]
 }
