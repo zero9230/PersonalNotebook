@@ -53,6 +53,9 @@ Hive 依赖于 HDFS 存储数据，Hive 将 HQL 转换成 MapReduce 执行，所
 
 # 2 常用语法
 
+
+
+
 1. 登录
 ```sql
 hive;
@@ -123,3 +126,12 @@ FROM
 WHERE
     account_id =
 ```
+
+
+
+![](hive.assets/image-20230103210814193.png)
+
+
+## 2.1 参考资料
+1. 【hive语法】—— [Hive学习之路 （七）Hive的DDL操作](https://www.cnblogs.com/qingyunzong/p/8723271.html) 
+2. 【hive内置函数】—— [Hive学习之路 （九）Hive的内置函数](https://www.cnblogs.com/qingyunzong/p/8744593.html)
