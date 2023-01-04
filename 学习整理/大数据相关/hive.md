@@ -53,7 +53,42 @@ Hive 依赖于 HDFS 存储数据，Hive 将 HQL 转换成 MapReduce 执行，所
 
 # 2 常用语法
 
+## 2.1 创建库
+### 2.1.1 语法结构
 
+```sql
+CREATE (DATABASE|SCHEMA) [IF NOT EXISTS] database_name
+	[COMMENT database_comment]　　　　　　//关于数据块的描述
+	[LOCATION hdfs_path]　　　　　　　　　　//指定数据库在HDFS上的存储位置
+	[WITH DBPROPERTIES (property_name=property_value, ...)];　　　　//指定数据块属性
+```
+默认地址：/user/hive/warehouse/db_name.db/table_name/partition_name/…
+
+### 2.1.2 创建库的方式
+
+
+## 2.2 查看库
+
+## 2.3 删除库
+
+## 2.4 切换库
+
+## 2.5 创建表
+
+## 2.6 查看表
+
+## 2.7 修改表
+
+## 2.8 删除表
+
+## 2.9 清空表
+
+
+
+
+
+
+---
 
 
 1. 登录
@@ -132,6 +167,6 @@ WHERE
 ![](hive.assets/image-20230103210814193.png)
 
 
-## 2.1 参考资料
+## 2.10 参考资料
 1. 【hive语法】—— [Hive学习之路 （七）Hive的DDL操作](https://www.cnblogs.com/qingyunzong/p/8723271.html) 
 2. 【hive内置函数】—— [Hive学习之路 （九）Hive的内置函数](https://www.cnblogs.com/qingyunzong/p/8744593.html)
