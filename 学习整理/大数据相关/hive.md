@@ -62,9 +62,13 @@ CREATE (DATABASE|SCHEMA) [IF NOT EXISTS] database_name
 	[LOCATION hdfs_path]　　　　　　　　　　//指定数据库在HDFS上的存储位置
 	[WITH DBPROPERTIES (property_name=property_value, ...)];　　　　//指定数据块属性
 ```
+
 默认地址：/user/hive/warehouse/db_name.db/table_name/partition_name/…
 
 ### 2.1.2 创建库的方式
+```sql
+create database t1;
+```
 
 
 ## 2.2 查看库
