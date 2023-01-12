@@ -67,7 +67,17 @@ CREATE (DATABASE|SCHEMA) [IF NOT EXISTS] database_name
 
 ### 2.1.2 创建库的方式
 ```sql
+-- 创建普通的数据库
 create database t1;
+
+-- 创建库的时候检查存与否
+create database if not exists t1;
+
+-- 创建库的时候带注释
+create database if not exists t2 comment 'learning hive';
+
+-- 创建带属性的库
+create database if not exists t3 with dbproperties('creator'='hadoop',date='2018-04-05');
 ```
 
 
